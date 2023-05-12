@@ -18,5 +18,8 @@ p {
 
 h4 {
     color: navy;
+    background-color: beige;
+    border: 1px black solid;
+    padding: 3px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
